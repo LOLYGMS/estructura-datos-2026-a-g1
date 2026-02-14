@@ -11,7 +11,7 @@
 
 * Posición 2: miércoles
 
-*Posición 3: jueves
+* Posición 3: jueves
 
 * Posición 4: viernes
 
@@ -30,3 +30,4 @@
 promedio = (150 + 200 + 175 + 220 + 190) / 5 = 187 unidades
 
 Esto permite conocer el rendimiento diario promedio de la tienda.
+
