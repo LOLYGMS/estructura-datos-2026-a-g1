@@ -12,11 +12,12 @@
 
 ---
 
-##Organización propuesta:
+## Organización propuesta:
 
 **Ubicaciones:** En una tabla hash para búsquedas rápidas por nombre o coordenadas.
 
 **Rutas:** Como una cola de pasos a seguir, y para calcularlas se usa un grafo con calles y cruces.
 
 **Reseñas:** En una lista ordenada por fecha o puntuación, asociadas a cada lugar mediante una tabla hash.
+
 
